@@ -12,10 +12,11 @@ The three models are:
 ## Repo structure
 
 This repo is organized into three main directories, one for each algorithm.
+```
 .
 ├── NOTEARS/
 ├── DAG-GNN/
 ├── VI-DP-DAG/
 └── README.md
-
+```
 enjoy ~
